@@ -28,12 +28,14 @@ KPI'S:
 •Max of Parch(Max count of Parents or Children).
 •Max of Sibsp ( Max count of Sibling or Spouse).
 •Total Fare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task_3:
+Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
 
-CHARTS:
-•Total Fare by Pclass.
-•Count of Passengers by Pclass(legend :Gender).
-•Count of Survived.
-•Average of Age by Pclass.
+Sample Dateset :- https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
-SLICER:
-•Embarked (Embarked Port).
+
+
+
+
+
